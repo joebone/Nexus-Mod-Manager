@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.24720.0
+VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Game Modes", "Game Modes", "{512B02AB-C927-4F3F-A7BF-26E6EE4CF678}"
 EndProject
@@ -119,6 +119,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Morrowind.ModScript", "Morrowind.ModScript\Morrowind.ModScript.csproj", "{ECD2C3BB-08C6-4B22-A15D-50B65AF8C264}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oblivion.ModScript", "Oblivion.ModScript\Oblivion.ModScript.csproj", "{89E93472-18B4-420B-B3A4-44C05F87B33C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeverwinterNights2", "NeverwinterNights2\NeverwinterNights2.csproj", "{20C626D2-1606-4948-9E56-2CF30C103DAD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -326,6 +328,10 @@ Global
 		{89E93472-18B4-420B-B3A4-44C05F87B33C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89E93472-18B4-420B-B3A4-44C05F87B33C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89E93472-18B4-420B-B3A4-44C05F87B33C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20C626D2-1606-4948-9E56-2CF30C103DAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20C626D2-1606-4948-9E56-2CF30C103DAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20C626D2-1606-4948-9E56-2CF30C103DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20C626D2-1606-4948-9E56-2CF30C103DAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -370,5 +376,6 @@ Global
 		{6F54344F-9A88-4EDE-945C-768FD224E07D} = {512B02AB-C927-4F3F-A7BF-26E6EE4CF678}
 		{ECD2C3BB-08C6-4B22-A15D-50B65AF8C264} = {512B02AB-C927-4F3F-A7BF-26E6EE4CF678}
 		{89E93472-18B4-420B-B3A4-44C05F87B33C} = {512B02AB-C927-4F3F-A7BF-26E6EE4CF678}
+		{20C626D2-1606-4948-9E56-2CF30C103DAD} = {512B02AB-C927-4F3F-A7BF-26E6EE4CF678}
 	EndGlobalSection
 EndGlobal
